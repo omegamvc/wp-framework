@@ -1,0 +1,10 @@
+{
+    "name": "omegamvc/wp-framework",
+    "authors": [
+        {
+            "name": "omegamvc",
+            "email": "agisoftt@gmail.com"
+        }
+    ],
+    "require": {}
+}
