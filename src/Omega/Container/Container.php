@@ -1,12 +1,5 @@
 <?php
-/**
- * Container: Container implementation
- *
- * @package Moonwalking_Bits\Container
- * @author Martin Pettersson
- * @license GPL-2.0
- * @since 0.1.0
- */
+
 
 namespace Omega\Container;
 
